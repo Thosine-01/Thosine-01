@@ -1,5 +1,12 @@
-## Hi there 👋
-My name is Oluwatomisin. I am a passionate JavaScrip developer.
+## Hi there 👋 I am Lawal Oluwatomisin 
+
+##About me ⛄️
+I am a frontend developer  passionate about building beautiful Web apps.
+my skills include;
+React.js
+TailwindCSS
+Chakra UI
+Material UI
 
  🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
