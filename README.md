@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Lawal Oluwatomisin 
 
-##About me ⛄️
+## About me ⛄️
 I am a frontend developer  passionate about building beautiful Web apps.
 my skills include;
 React.js
