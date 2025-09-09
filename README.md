@@ -9,6 +9,9 @@ my skills include;
 - Chakra UI
 - Material UI
 - Node.js
+- Python
+- Django
+- SQLite
 
 ##  🔭 I’m currently working on ...
 STRNDER: This is a professional website for a content entrepreneur.
